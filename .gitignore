@@ -59,6 +59,11 @@ project.lock.json
 package-lock.json
 project.fragment.lock.json
 artifacts/
+global.json
+appsetting.json
+MyCodeCamp.csproj
+MyCodeCamp.Data.csproj
+MyCodeCamp.Data.csproj.user
 
 # StyleCop
 StyleCopReport.xml
