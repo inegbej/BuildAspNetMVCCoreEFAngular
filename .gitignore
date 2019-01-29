@@ -57,13 +57,14 @@ BenchmarkDotNet.Artifacts/
 # .NET Core
 project.lock.json
 package-lock.json
+package.json
 project.fragment.lock.json
 artifacts/
-global.json
-appsetting.json
-MyCodeCamp.csproj
-MyCodeCamp.Data.csproj
-MyCodeCamp.Data.csproj.user
+DutchTreat.sln
+DutchTreat.sln.csproj
+DutchTreat.sln.csproj.user
+config.json
+tsconfig.json
 
 # StyleCop
 StyleCopReport.xml
