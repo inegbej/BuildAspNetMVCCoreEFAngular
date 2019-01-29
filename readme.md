@@ -1,4 +1,4 @@
-# Building a Web App with ASP.NET Core, MVC, EFCore and Angular
+# Build WebApp with ASP.NET Core, MVC, EFCore and Angular
 
 Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular is a practical course that teaches how to build a website from scratch using the latest version of Microsoft's ASP.NET Core framework. It covers Entity Framework Core, using ASP.NET Identity, building APIs with ASP.NET MVC, and deploying the app to the server or the cloud. In addition, the course also show how to build an Angular - client-side app in ASP.NET Core.
 The course is available [here](https://app.pluralsight.com/library/courses/aspnetcore-mvc-efcore-bootstrap-angular-web/table-of-contents "PluralSight")
